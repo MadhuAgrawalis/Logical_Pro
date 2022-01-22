@@ -1,0 +1,14 @@
+C:\Users\sk290\Desktop\bridgepractice\Logical_Pro\Logical_Pro\bin\Debug\netcoreapp3.1\Logical_Pro.exe
+C:\Users\sk290\Desktop\bridgepractice\Logical_Pro\Logical_Pro\bin\Debug\netcoreapp3.1\Logical_Pro.deps.json
+C:\Users\sk290\Desktop\bridgepractice\Logical_Pro\Logical_Pro\bin\Debug\netcoreapp3.1\Logical_Pro.runtimeconfig.json
+C:\Users\sk290\Desktop\bridgepractice\Logical_Pro\Logical_Pro\bin\Debug\netcoreapp3.1\Logical_Pro.runtimeconfig.dev.json
+C:\Users\sk290\Desktop\bridgepractice\Logical_Pro\Logical_Pro\bin\Debug\netcoreapp3.1\Logical_Pro.dll
+C:\Users\sk290\Desktop\bridgepractice\Logical_Pro\Logical_Pro\bin\Debug\netcoreapp3.1\Logical_Pro.pdb
+C:\Users\sk290\Desktop\bridgepractice\Logical_Pro\Logical_Pro\obj\Debug\netcoreapp3.1\Logical_Pro.csproj.AssemblyReference.cache
+C:\Users\sk290\Desktop\bridgepractice\Logical_Pro\Logical_Pro\obj\Debug\netcoreapp3.1\Logical_Pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sk290\Desktop\bridgepractice\Logical_Pro\Logical_Pro\obj\Debug\netcoreapp3.1\Logical_Pro.AssemblyInfoInputs.cache
+C:\Users\sk290\Desktop\bridgepractice\Logical_Pro\Logical_Pro\obj\Debug\netcoreapp3.1\Logical_Pro.AssemblyInfo.cs
+C:\Users\sk290\Desktop\bridgepractice\Logical_Pro\Logical_Pro\obj\Debug\netcoreapp3.1\Logical_Pro.csproj.CoreCompileInputs.cache
+C:\Users\sk290\Desktop\bridgepractice\Logical_Pro\Logical_Pro\obj\Debug\netcoreapp3.1\Logical_Pro.dll
+C:\Users\sk290\Desktop\bridgepractice\Logical_Pro\Logical_Pro\obj\Debug\netcoreapp3.1\Logical_Pro.pdb
+C:\Users\sk290\Desktop\bridgepractice\Logical_Pro\Logical_Pro\obj\Debug\netcoreapp3.1\Logical_Pro.genruntimeconfig.cache
